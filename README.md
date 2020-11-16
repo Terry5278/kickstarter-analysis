@@ -10,11 +10,11 @@ While working through the raw data provided by Kickstarter I keyed in on two key
 The main challenge in this analysis lies with the fact that all of the data at my disposal was gleaned from Kickstarter. As this is analysis around funding for a *creative* project it would have been helpful to assess some quantifiable metrics as to the cache of the projects involved. The blurbs provided by Kickstarter did not give me enough information to evaluate for expected audience reception based on artist reputation, proposed initial venue, artist collaboration or past critical reception. In short I was left with analysis of Kickstarter projects *in a vacuum*. As such I believe this data set to contain outliers and aberrant points which I was unequipped to account for. 
 
 ### Analysis of Outcomes Based on Launch Date
-	The most salient insight drawn from the data can be gleaned almost immediately from this image:
+The most salient insight drawn from the data can be gleaned almost immediately from this image:
 
 Projects launched in the summer months perform significantly more successfully against their goal than at any other time of year. This holds true not only across all plays but Kickstarter projects in general. More liquid capital available to prospective backers, more free time, and a *sunnier* disposition in general appears to lead to more willingness to support speculative ventures in general and the arts in particular. My second insight would be that launching a campaign during a time of year when discretionary income is already accounted for like the winter holidays would make the campaign less likely to succeed.
 ### Analysis of Outcomes Based on Goals
-	My next focal point was the initial goal put forward by projects on Kickstarter. I believed that the initial sticker shock of an extremely high goal or the lack of perceived return from a prohibitively modest one should affect backer engagement. 
+My next focal point was the initial goal put forward by projects on Kickstarter. I believed that the initial sticker shock of an extremely high goal or the lack of perceived return from a prohibitively modest one should affect backer engagement. 
 
 The data bore out my assumptions as demonstrated in the image above. There appears to be a sweet spot between 35 and 45 thousand dollars of initial investment and another at the lower end of the scale between 1 and 5 thousand dollars.
 ## Results
