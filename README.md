@@ -11,7 +11,7 @@ The main challenge in this analysis lies with the fact that all of the data at m
 
 ### Analysis of Outcomes Based on Launch Date
 The most salient insight drawn from the data can be gleaned almost immediately from this image:
-
+Resources/Theater_Outcomes_vs_Launch.png
 Projects launched in the summer months perform significantly more successfully against their goal than at any other time of year. This holds true not only across all plays but Kickstarter projects in general. More liquid capital available to prospective backers, more free time, and a *sunnier* disposition in general appears to lead to more willingness to support speculative ventures in general and the arts in particular. My second insight would be that launching a campaign during a time of year when discretionary income is already accounted for like the winter holidays would make the campaign less likely to succeed.
 ### Analysis of Outcomes Based on Goals
 My next focal point was the initial goal put forward by projects on Kickstarter. I believed that the initial sticker shock of an extremely high goal or the lack of perceived return from a prohibitively modest one should affect backer engagement. 
